@@ -1,6 +1,6 @@
 # Bloquejar el telèfon durant l’exposició
 
-Els quatre tocs obren el menú de Quadre sonor. No desbloquegen el sistema operatiu. Configura el bloqueig del telèfon amb un codi que només conegui la persona responsable.
+Els quatre tocs ràpids amb dos dits alhora obren el menú de Quadre sonor. No desbloquegen el sistema operatiu. Configura el bloqueig del telèfon amb un codi que només conegui la persona responsable.
 
 ## Proves a l’iPhone
 
@@ -32,4 +32,4 @@ Font: https://support.google.com/android/answer/9455138?hl=en-GB
 
 ## Abans d’exposar
 
-Comprova el dispositiu real: mode avió, final de cançó, quatre tocs, pantalla activa durant una estona llarga i bloqueig de sortida. Mantén el telèfon alimentat i conserva una còpia dels fitxers originals. El menú amagat és un gest d’accés, no una contrasenya.
+Comprova el dispositiu real: mode avió, final de cançó, quatre tocs amb dos dits, pantalla activa durant una estona llarga i bloqueig de sortida. Mantén el telèfon alimentat i conserva una còpia dels fitxers originals. El menú amagat és un gest d’accés, no una contrasenya.
